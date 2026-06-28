@@ -195,7 +195,7 @@ export default function Home() {
               </button>
 
               <div className="flex items-center gap-2">
-                <h1 className="text-2xl font-bold">Alibaba</h1>
+                <h1 className="text-2xl font-bold">AliExpress</h1>
               </div>
 
               <div className="flex-1 max-w-3xl mx-4">
@@ -586,7 +586,7 @@ export default function Home() {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm">
-            <p>© 2025 Alibaba Clone | Created by rafay sheikh</p>
+            <p>© 2025 AliExpress </p>
           </div>
         </div>
       </footer>
